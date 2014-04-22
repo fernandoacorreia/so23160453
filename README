@@ -1,0 +1,9 @@
+This is a Play Framework 2.2.2 application that shows how to run integration tests separately from unit tests.
+
+To run unit tests:
+
+$ sbt test
+
+To run integration tests:
+
+$ sbt fun:test
